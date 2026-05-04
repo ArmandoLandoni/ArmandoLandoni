@@ -52,7 +52,7 @@ Backend Developer enfocado en sistemas, algoritmos y desarrollo eficiente.
 ## 🌍 Idiomas
 
 - 🏠 Español: Nativo  
-- 🗣️ Inglés: ESOL completado (nivel intermedio en progreso práctico)
+- 🗣️ Inglés: ESOL completado
 
 ---
 
